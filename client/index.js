@@ -9,7 +9,8 @@
  * In my project, I am using Semantic UI as css framework, it helps me showing cards and displaying loaders
  * for more info, check this link: https://semantic-ui.com/introduction/getting-started.html
  */
-const PUBLIC_URL = "http://localhost:4000";
+// const PUBLIC_URL = "http://localhost:4000";
+const PUBLIC_URL = "https://marvel-app-characters.herokuapp.com";
 
 //ui classes (Semantic classNames)
 const loaderClassList = ["ui", "active", "centered", "inline", "loader"];
