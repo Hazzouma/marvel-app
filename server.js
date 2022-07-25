@@ -1,7 +1,7 @@
 const path = require("path");
 const express = require("express");
 const redisClient = require("./helpers/redisBib");
-require("dotenv").config();
+// require("dotenv").config();
 
 //redis
 const client = redisClient.configRedis();
